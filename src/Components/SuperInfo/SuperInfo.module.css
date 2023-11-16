@@ -1,0 +1,18 @@
+.superInfoBg{
+  background: #122ab2;
+  color: white;
+}
+.superInfo{
+  max-width: 960px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  padding-top:10px;
+}
+.superInfo p, .superInfo a {
+  margin: 0 10px 10px 10px;
+}
+.superInfo a{
+  color: white;
+}
